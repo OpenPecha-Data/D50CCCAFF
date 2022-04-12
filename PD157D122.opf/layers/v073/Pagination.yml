@@ -3018,72 +3018,84 @@ annotations:
     span:
       start: 566511
       end: 567902
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   22e43f7317bf47e7aaebe89fa341349a:
     imgnum: 455
     reference: ''
     span:
       start: 567904
       end: 569258
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   a482b010cfad4ae69072ab26ab747fbf:
     imgnum: 456
     reference: ''
     span:
       start: 569260
       end: 570636
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   f4a3a5a750a34b9383f728768e8b3a4e:
     imgnum: 457
     reference: ''
     span:
       start: 570638
       end: 572020
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   e0774acfb61a4869adffd5b1e8e041e3:
     imgnum: 458
     reference: ''
     span:
       start: 572022
       end: 573360
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   b50c3f0388d34ecda6441c37973a271a:
     imgnum: 459
     reference: ''
     span:
       start: 573362
       end: 574598
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   2dea8ee87ca241a6944ae5b8d42a942d:
     imgnum: 460
     reference: ''
     span:
       start: 574600
       end: 575863
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   48be72efe2754331a14dda68c3f568ef:
     imgnum: 461
     reference: ''
     span:
       start: 575865
       end: 577043
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   8c533bd3508646f89e5df244943a7d6c:
     imgnum: 462
     reference: ''
     span:
       start: 577045
       end: 578294
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   cea26cee65894ebb8e524a0699569a60:
     imgnum: 463
     reference: ''
     span:
       start: 578296
       end: 579657
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   50aa516c9ebb4bd2802738571bf008fd:
     imgnum: 464
     reference: ''
     span:
       start: 579659
       end: 580988
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   bd195ba9ba7a40fb93e65162a923f182:
     imgnum: 465
     reference: ''
     span:
       start: 580990
       end: 582219
+    note_ref: 1df5831517cd43459f217d76d1b0ee2a
   11229346cd4842fea052796a6e7e5e06:
     imgnum: 466
     reference: ''
